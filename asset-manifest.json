@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ramyavani/static/css/main.073c9b0a.css",
-    "main.js": "/ramyavani/static/js/main.5da2e685.js",
-    "static/js/787.37d62d5d.chunk.js": "/ramyavani/static/js/787.37d62d5d.chunk.js",
-    "static/media/logo.svg": "/ramyavani/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ramyavani/static/css/main.445d5e4d.css",
+    "main.js": "/ramyavani/static/js/main.ff916b85.js",
+    "static/media/Vani.jpg": "/ramyavani/static/media/Vani.726eff94ba3bc6f45fbe.jpg",
+    "static/media/weather.JPG": "/ramyavani/static/media/weather.9ff9ec78f6d3b31e0d10.JPG",
+    "static/media/tictactoe.JPG": "/ramyavani/static/media/tictactoe.2441bdd84dc457845d98.JPG",
+    "static/media/favicon.ico": "/ramyavani/static/media/favicon.387e0c2fbd4f74b87da4.ico",
     "index.html": "/ramyavani/index.html",
-    "main.073c9b0a.css.map": "/ramyavani/static/css/main.073c9b0a.css.map",
-    "main.5da2e685.js.map": "/ramyavani/static/js/main.5da2e685.js.map",
-    "787.37d62d5d.chunk.js.map": "/ramyavani/static/js/787.37d62d5d.chunk.js.map"
+    "main.445d5e4d.css.map": "/ramyavani/static/css/main.445d5e4d.css.map",
+    "main.ff916b85.js.map": "/ramyavani/static/js/main.ff916b85.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5da2e685.js"
+    "static/css/main.445d5e4d.css",
+    "static/js/main.ff916b85.js"
   ]
 }
