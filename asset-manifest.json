@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ramyavani/static/css/main.073c9b0a.css",
+    "main.js": "/ramyavani/static/js/main.5da2e685.js",
+    "static/js/787.37d62d5d.chunk.js": "/ramyavani/static/js/787.37d62d5d.chunk.js",
+    "static/media/logo.svg": "/ramyavani/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ramyavani/index.html",
+    "main.073c9b0a.css.map": "/ramyavani/static/css/main.073c9b0a.css.map",
+    "main.5da2e685.js.map": "/ramyavani/static/js/main.5da2e685.js.map",
+    "787.37d62d5d.chunk.js.map": "/ramyavani/static/js/787.37d62d5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5da2e685.js"
+  ]
+}
